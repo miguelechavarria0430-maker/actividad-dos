@@ -64,7 +64,7 @@
 }
 
 .hero-content {
-    flex: 1;
+    width: 50%;
 }
 
 .hero-title {
@@ -94,7 +94,7 @@
 }
 
 .hero-image {
-    flex: 1;
+    width: 50%;
 }
 
 .hero-image-content {
